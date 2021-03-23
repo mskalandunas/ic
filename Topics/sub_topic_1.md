@@ -7,5 +7,4 @@ A description of the contents goes here.
 
 ### Sub topic 1
 
-
 ### Sub topic 2
